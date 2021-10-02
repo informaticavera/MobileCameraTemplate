@@ -1,6 +1,4 @@
 # Modificación del proyecto de https://www.kasperkamperman.com/blog/camera-template/
-**Check the [demo](https://demo.kasperkamperman.com/mobilecamtemplate/)**
-
 
 ### Funcionalidades añadidas
 
